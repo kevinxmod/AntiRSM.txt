@@ -1,1 +1,9 @@
-
+titleStr=<b><color=#69D9FF>Lưu Ý</color></b>
+strContent=<size=23><color=#48D5FF>FILE ĐƯỢC HOÀN THÀNH BỞI</color></size>\n<size=21><b><color=#67E8F9>KevinXModAov</color></b></size>\n\n<size=18><i><color=#F2F5FF>Đăng Ký Kênh Để Nhận Các Mod Mới.</color></i></size>\n<size=18><color=#DCE7FF>Vào </color><b><color=#8BFFB5>BOT MOD</color></b><color=#DCE7FF> Để Mod Skin Tự Động.</color></size>
+hasCancelBtn=true
+confirmStr=BOT MOD
+cancelStr=ĐĂNG KÝ
+onConfirm=https://t.me/KevinXmod_bot
+onCancel=https://youtube.com/@kevinxmod?si=kUft-as9qx3kTuv-
+isShowCloseBtn=true
+cacheVersion=20260905-1232-v4
