@@ -1,5 +1,5 @@
-titleStr=<b><color=#FFFF00>Lưu ý</color></b>
-strContent=<size=23><color=#7AE8FF>FILE MOD ĐƯỢC HOÀN THIỆN BỞI</color></size>\n<size=21><b><color=#9EFFC2>KevinX Mod</color></b></size>\n\n<size=18><i><color=#FF9F5A>Đăng Ký</color><color=#F2F5FF> Kênh Để Xem Các Mod Mới.</color></i></size>\n<size=18><color=#DCE7FF>Bấm vào </color><b><color=#7FFFFF>Bot Telegram</color></b><color=#DCE7FF> Để Tạo Mod Skin Theo Sở Thích.</color></size>
+titleStr=<b><color=#FFD700>Lưu ý</color></b>
+strContent=<size=23><color=#B3F0FF>FILE MOD ĐƯỢC HOÀN THIỆN BỞI</color></size>\n<size=22><b><color=#9EFFC2>KevinX Mod</color></b></size>\n\n<size=20><i><color=#FFFF00>Đăng Ký</color><color=#F2F5FF> Kênh Để Xem Các Mod Mới.</color></i></size>\n<size=20><color=#DCE7FF>Bấm vào </color><b><color=#7FFFFF>Bot Telegram</color></b><color=#DCE7FF> Để Tạo Mod Skin Theo Sở Thích.</color></size>
 hasCancelBtn=true
 confirmStr=ĐĂNG KÝ
 cancelStr=Bot Telegram
